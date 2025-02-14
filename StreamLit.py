@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Hi Lauren!")
 
-st.write('A standard text input:')
+st.write('Daniel is working on this')
 st.text_input('Write some text here:')
 
 st.write("Text input in columns:")
