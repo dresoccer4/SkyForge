@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Change Text Input Width")
+st.title("Hi Lauren!")
 
 st.write('A standard text input:')
 st.text_input('Write some text here:')
